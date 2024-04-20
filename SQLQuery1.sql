@@ -1,0 +1,1 @@
+select * from [deptdb].[dbo].[dept]
