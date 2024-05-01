@@ -46,3 +46,5 @@ name varchar(50)
 )
 
  
+
+ INSERT INTO Productsnew (ProductName,SupplierID,CategoryID,Unit,Price) Values ('Jeera Rice',1,7,'7,5 kg',120)
